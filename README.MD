@@ -25,5 +25,5 @@ In this exercise, learn to apply the following of:
 
 
 ## Demo
-![DEMO](https://res.cloudinary.com/deljm4syl/video/upload/v1670062581/iswift/demo_-_01_qp9rfm.mp4)
+- [Link](https://res.cloudinary.com/deljm4syl/video/upload/v1670062581/iswift/demo_-_01_qp9rfm.mp4)
 
