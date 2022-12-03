@@ -1,7 +1,7 @@
 
 # SwiftUI TabView & Swipe Action
 
-This is exercise of iOS App development using SwiftUI
+This is exercise of iOS App development using SwiftUI.
 In this exercise, learn to apply the following of:
 
 - TabView
